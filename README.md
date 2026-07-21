@@ -1,3 +1,1 @@
-## 💻 Stack
-
-[!(https://skillicons.dev)](https://skillicons.dev)
+[![Habilities](https://skillicons.dev)](https://skillicons.dev)
