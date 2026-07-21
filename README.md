@@ -1,1 +1,1 @@
-[![Stack](https://skillicons.dev)](https://skillicons.dev)
+<img src="https://skillicons.dev" />
