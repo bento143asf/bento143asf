@@ -1,1 +1,1 @@
-[![Habilities](https://skillicons.dev)](https://skillicons.dev)
+[![Stack](https://skillicons.dev)](https://skillicons.dev)
