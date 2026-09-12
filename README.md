@@ -1,3 +1,3 @@
-# I love NixOS
+## NixOS btw
 
 [![skills](https://skillicons.dev/icons?i=linux,c,php,neovim,github,git,)](https://skillicons.dev)
